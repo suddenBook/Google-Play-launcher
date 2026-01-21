@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Play Store</string>
+    <string name="play_store_missing">Google Play Store not found on this device.</string>
+</resources>
